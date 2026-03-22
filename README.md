@@ -18,9 +18,6 @@ TalentUPQ es una aplicación web de vanguardia diseñada para optimizar la vincu
 * Andrés Rangel Martínez
 * Luis Fernando Hernández Dimas
 
-**Docente:** Nelson Hernán Torres Cervantes  
-**Fecha de Entrega:** 06 de noviembre de 2025
-
 ---
 
 ##  Alcance del Sistema
