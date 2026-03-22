@@ -89,4 +89,4 @@ El proyecto se estructura en un ciclo de **12 meses**, con una liberación de la
 
 *(En esta sección se integran los diagramas de Casos de Uso, Clases, Secuencia y Entidad-Relación detallados en la documentación técnica).*
 
-> **Nota de éxito:** El proyecto ha sido validado con los stakeholders (estudiantes y empresas), logrando un consenso del 100% sobre la claridad y calidad de los requisitos definidos.
+> **Nota :** El proyecto esta en proceso de realizacion, tendremos avances muy pronto.
