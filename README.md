@@ -15,7 +15,6 @@ TalentUPQ es una aplicación web de vanguardia diseñada para optimizar la vincu
 * Roberto Mauricio Maya Maldonado
 * Victor Manuel Molina Caballero
 * José Ángel Nieves Franco
-* Andrés Rangel Martínez
 * Luis Fernando Hernández Dimas
 
 ---
