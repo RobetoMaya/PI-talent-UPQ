@@ -9,7 +9,7 @@ TalentUPQ es una aplicación web de vanguardia diseñada para optimizar la vincu
 
 ---
 
-## 👥 Equipo de Proyecto (S-203)
+##  Equipo de Proyecto (S-203)
 
 * **Roque Josué Aguirre Viveros**
 * Roberto Mauricio Maya Maldonado
@@ -23,7 +23,7 @@ TalentUPQ es una aplicación web de vanguardia diseñada para optimizar la vincu
 
 ---
 
-## 🎯 Alcance del Sistema
+##  Alcance del Sistema
 
 ### Objetivo General
 Desarrollar una bolsa de trabajo universitaria integral que conecte el talento académico con ofertas laborales reales mediante herramientas personalizadas.
@@ -37,7 +37,7 @@ Desarrollar una bolsa de trabajo universitaria integral que conecte el talento a
 
 ---
 
-## 📈 Análisis de Factibilidad y Rentabilidad
+##  Análisis de Factibilidad y Rentabilidad
 
 El proyecto ha sido validado mediante un estudio de factibilidad económica con proyecciones a 4 años:
 
@@ -49,7 +49,7 @@ El proyecto ha sido validado mediante un estudio de factibilidad económica con 
 
 ---
 
-## 🛠️ Especificaciones Técnicas
+##  Especificaciones Técnicas
 
 * **Arquitectura:** Full Stack (Frontend adaptativo y Backend escalable).
 * **Infraestructura:** Amazon Web Services (AWS) para garantizar alta disponibilidad.
@@ -59,7 +59,7 @@ El proyecto ha sido validado mediante un estudio de factibilidad económica con 
 
 ---
 
-## 📋 Ingeniería de Requisitos (Resumen MoSCoW)
+##  Ingeniería de Requisitos (Resumen MoSCoW)
 
 ### Must Have (Obligatorios)
 * Registro diferenciado de roles (Estudiante, Empresa, Admin).
@@ -74,7 +74,7 @@ El proyecto ha sido validado mediante un estudio de factibilidad económica con 
 
 ---
 
-## 📅 Cronograma de Implementación
+##  Cronograma de Implementación
 
 El proyecto se estructura en un ciclo de **12 meses**, con una liberación de la primera versión funcional (MVP) al finalizar el cuarto mes.
 
@@ -85,7 +85,7 @@ El proyecto se estructura en un ciclo de **12 meses**, con una liberación de la
 
 ---
 
-## 📸 Prototipos y Diagramas
+##  Prototipos y Diagramas
 
 *(En esta sección se integran los diagramas de Casos de Uso, Clases, Secuencia y Entidad-Relación detallados en la documentación técnica).*
 
